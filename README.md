@@ -1,6 +1,7 @@
 # Screenshooter-R3
 <h1>A simple yet powerful Screenshot taking utility</h1>
 <br>
+<img src="https://github.com/RohitBN/Screenshooter-R3/blob/master/blnk.png">
 <h2>Change Log</h2>
 <ul>
   <li>	New improved UI in JavaFX and Logic</li>
