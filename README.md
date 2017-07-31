@@ -1,6 +1,8 @@
 # Screenshooter-R3
 <h1>A simple yet powerful Screenshot taking utility</h1>
 <br>
+<h3>Download ScrenshooterV3.zip and follow instruction from ScreenshooterV3_user_guide.pdf to use the utility</h3>
+<br>
 <img src="https://github.com/RohitBN/Screenshooter-R3/blob/master/blnk.png">
 <h2>Change Log</h2>
 <ul>
