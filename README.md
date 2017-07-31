@@ -4,7 +4,7 @@
 <h3>Download <b>ScrenshooterV3.zip</b> and follow instructions from <b>ScreenshooterV3_user_guide.pdf</b> to use the utility</h3>
 <br>
 <img src="https://github.com/RohitBN/Screenshooter-R3/blob/master/blnk.png">
-<h2>Change Log</h2>
+<h2>Change Log for Version 3</h2>
 <ul>
   <li>	New improved UI in JavaFX and Logic</li>
 <li>		Updated Apache POI libraries </li>
